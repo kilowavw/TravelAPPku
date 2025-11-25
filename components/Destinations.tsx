@@ -15,7 +15,7 @@ const destinations: Destination[] = [
     id: 1,
     name: "Raja Ampat",
     location: "Papua Barat, Indonesia",
-    image: "https://images.unsplash.com/photo-1516690561799-46d8f74f9dab?q=80&w=2070&auto=format&fit=crop",
+    image: "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxKjVSZPFW9lU2AYCkn2UbJoPvRl3B3vvgF3Je2jsjCPeLHEWB-D1Ugs1N6Ox1Cy5kkYkL6XRvi725l_SpuD4V3eNaFZf3xIBIpLwmoM3JyuTnOJ6Uoa_mAVSh3dTbsIEev_w=w675-h390-n-k-no",
     description: "Surga bawah laut dengan keanekaragaman hayati terkaya di dunia. Terdiri dari lebih dari 1.500 pulau kecil, pulau karang, dan beting yang mengelilingi empat pulau utama. Tempat ini adalah rumah bagi 75% spesies karang dunia.",
     rating: 4.9,
     coordinates: { lat: -0.2333, lng: 130.5167 }
@@ -33,7 +33,7 @@ const destinations: Destination[] = [
     id: 3,
     name: "Gunung Bromo",
     location: "Jawa Timur, Indonesia",
-    image: "https://images.unsplash.com/photo-1588668214407-6ea9e6d8c272?q=80&w=2071&auto=format&fit=crop",
+    image: "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRKBTZlMEf53BDSPPyjoWJYgSJL6_729ZYH9I9BG8tPxzVabHqIGnVugoBb0ln76A4oturlbhFEURM1hDKLnPmceyM&s=19",
     description: "Gunung berapi aktif yang terletak di dalam kaldera Tengger yang sangat besar. Terkenal dengan pemandangan matahari terbit yang spektakuler dan suasana mistis di lautan pasirnya.",
     rating: 4.9,
     coordinates: { lat: -7.9425, lng: 112.9530 }
@@ -42,7 +42,7 @@ const destinations: Destination[] = [
     id: 4,
     name: "Labuan Bajo",
     location: "NTT, Indonesia",
-    image: "https://images.unsplash.com/photo-1596401057633-565652b8ddbe?q=80&w=1933&auto=format&fit=crop",
+    image: "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxkO_J2RBNX5ZZleNPIzqkWS4Pwzd1EG4GyowGdL0DAx3ql2mDQS2fB1fSnl5IK0_mLyB7Ml0NKVHdAU39Gr6ZELd7swJPaNKfB5Kp0X4mAqGrze-m4bMlqLvmD6OFoGv7E8Wp2=w675-h390-n-k-no",
     description: "Kota pelabuhan kecil yang menjadi gerbang utama menuju Taman Nasional Komodo. Menawarkan pemandangan matahari terbenam yang luar biasa dan akses ke pulau-pulau eksotis seperti Pulau Padar.",
     rating: 4.7,
     coordinates: { lat: -8.4964, lng: 119.8877 }
@@ -60,7 +60,7 @@ const destinations: Destination[] = [
     id: 6,
     name: "Danau Toba",
     location: "Sumatera Utara, Indonesia",
-    image: "https://images.unsplash.com/photo-1555050556-9d39c947d963?q=80&w=2071&auto=format&fit=crop",
+    image: "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRE9Go91IsPnxjthUdXr8yqI43bBxbXVcHrDLG6zFQ03Nhm4B2tMSe_HlCvTuEwiS6FSV8_CZuNopDe2vsHZ0ls7-Cq&s=19",
     description: "Danau vulkanik terbesar di dunia yang terbentuk dari letusan supervolcano purba. Di tengahnya terdapat Pulau Samosir yang kaya akan budaya Batak yang unik.",
     rating: 4.6,
     coordinates: { lat: 2.6167, lng: 98.6667 }
