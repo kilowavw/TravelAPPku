@@ -41,7 +41,7 @@ const Hero: React.FC = () => {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="font-sans text-lg md:text-xl text-white/80 mb-10 max-w-2xl mx-auto font-light"
         >
-          Biarkan AI kami merancang perjalanan impian Anda. Dari pegunungan yang megah hingga pantai yang tenang, petualangan Anda dimulai di sini.
+          Biarkan kami mengurus detailnya, Anda tinggal bersantai. Petualangan tanpa beban Anda dimulai di sini.
         </motion.p>
 
         <motion.div
